@@ -1,0 +1,123 @@
+*{
+}
+body{
+background-image: url("images5.jpg");
+background-size: cover;
+}
+.principal{
+position:relative ;
+height: 860px;
+
+   }
+.logo{
+height: 9%; 
+
+}
+#p2{
+ position:relative;
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+ font-size: 36pt;
+ top: 0%;
+ text-align: center;
+ height: 0.5px;
+ font-style: italic;
+
+}  
+#imglogo{
+ position: absolute;
+ top: 20px;
+ left: 50px;
+ }
+
+.sector{
+     position: relative;
+     background-color: #6ccc67;
+     width: 75%;
+     left: 240px;
+     height: 85%;
+     border-radius: 15px;
+ }
+.texto{
+   position: absolute;
+   background-color: rgb(247, 247, 230);
+   left: 20px;
+   top: 20px;
+   height: 93%;
+   width: 48%;
+   text-align: center;
+   border-radius: 15px;
+  
+}
+.textoimg{
+   position: absolute;
+   background-color: rgb(247, 247, 230);
+   top: 20px;
+   width: 30%;
+   height: 93%;
+   right: 20px;
+   text-align: center;
+   border-radius: 15px;
+   }
+#texto1{
+     border-radius: 20px;
+     font-size: 20pt;
+
+   }
+#h3{
+   font-family: Arial, Helvetica, sans-serif;
+    }
+#p{
+   font-family: Arial, Helvetica, sans-serif;
+    }
+#p1{
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 16pt;
+}     
+#texto2{
+       border-radius: 20px; 
+       font-size: 20pt;
+    }
+#encrip{
+   width: 250px;
+   height: 60px;
+   font-size: 20pt;
+   border-radius: 10px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: rgb(18, 126, 180);
+   color: #e5e5e5;
+ }    
+#descen{
+   background-color: rgb(174, 205, 220);
+   width: 250px;
+   height: 60px;
+   font-size: 20pt;
+   border-radius: 10px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ }   
+ #pela{
+     position: relative;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: large;
+     left: 30px;
+  }
+  #copia{
+      position: absolute;
+     background-color: rgb(7, 99, 198);
+     width: 250px;
+     height: 60px;
+     font-size: 20pt;
+     border-radius: 10px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: white;
+     left: 120px;
+     top: 545px;
+  }
+  #p3{
+      position: absolute;
+      left: 40px;
+      top: 380px;
+     font-family: Arial, Helvetica, sans-serif; 
+     font-size: 16pt;
+
+  }
